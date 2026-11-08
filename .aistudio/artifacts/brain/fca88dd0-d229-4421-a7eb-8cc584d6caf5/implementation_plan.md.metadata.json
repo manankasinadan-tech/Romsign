@@ -1,0 +1,6 @@
+{
+  "summary":  "Plan d'implémentation complet pour l'application ROMsign : audit cryptographique des APKs, analyse globale des dépendances pour répertoires d'unpacker (sans symlinks), et résignature intelligente avec gestion du cache ART et des permissions.",
+  "updatedAt":  "2026-11-08T17:55:55.262339425Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

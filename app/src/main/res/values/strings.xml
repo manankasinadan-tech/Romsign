@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ROMsign</string>
+    <string name="title_app_info">App Info</string>
+    <string name="title_audit_project">Audit Project</string>
+    <string name="title_smart_resign">Smart Resign</string>
+    <string name="action_verify">Vérifier</string>
+    <string name="action_launch">LANCER</string>
+    <string name="desc_root_detected">Accès Root SU Détecté</string>
+    <string name="desc_root_not_detected">Mode Utilisateur Standard</string>
+</resources>

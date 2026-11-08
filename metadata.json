@@ -1,0 +1,6 @@
+{
+  "name": "ROMsign",
+  "description": "Audit cryptographique, analyse de chaîne de confiance et résignature chirurgicale pour images et partitions de ROMs Android",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
